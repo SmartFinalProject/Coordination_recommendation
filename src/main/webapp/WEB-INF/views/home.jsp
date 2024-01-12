@@ -8,7 +8,6 @@
 <h1>
 	HELLO WORLD
 </h1>
-test
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
